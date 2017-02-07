@@ -1,19 +1,27 @@
-<!DOCTYPE html>
+<!--[if IE 8]>          <html class="ie ie8"> <![endif]-->
+<!--[if IE 9]>          <html class="ie ie9"> <![endif]-->
+<!--[if gt IE 9]><!-->  <html> <!--<![endif]-->
 
-<html>
 <head>
-<meta charset="utf-8">
+    <meta charset="utf-8">
     <meta lang="en">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Jivin Travels - Travel, Tour Booking</title>
+    <base href="/">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
+<body ng-app="jivinTravelsApp">
+<link rel="stylesheet" href="styles/vendorstyles.min.css">
 
-<body>
-<h1>Hi Rajeev anna !!! Sunny here </h1>
+<link rel="stylesheet" href="styles/mainstyles.min.css">
 
+<script src="scripts/vendorscripts.min.js"></script>
+<script src="scripts/mainscripts.min.js"></script>
+<jivin-travels-header></jivin-travels-header>
+<div ui-view></div>
+<jivin-travels-footer></jivin-travels-footer>
 </body>
 
 </html>
