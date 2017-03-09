@@ -1,0 +1,57 @@
+[{
+  "hotelName" : "Hotel Sea View - Tiruvananthapuram - 1",
+  "hotelLocation" : "Tiruvananthapuram",
+  "hotelRating" : {
+    "overall" : 4,
+    "service" : 4,
+    "value" : 4,
+    "cleanliness" : 4,
+    "sleepQuality" : 3,
+    "location" : 4,
+    "rooms" : 4,
+    "fitnessFacility" : 3,
+    "swimmingPool" : 3
+  },
+  "hotelAddress" : "Court Road, Tiruvananthapuram - 1",
+  "hotelContent" : "Pack your bags - it’s time to embark on a getaway. Whether you’re craving a solo retreat or promising your family a",
+  "hotelRate" : 2200,
+  "imagePathUrl" : ["images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png"]
+},
+  {
+    "hotelName" : "Hotel Sea View - Tiruvananthapuram-2",
+    "hotelLocation" : "Tiruvananthapuram",
+    "hotelRating" : {
+      "overall" : 4,
+      "service" : 4,
+      "value" : 4,
+      "cleanliness" : 4,
+      "sleepQuality" : 3,
+      "location" : 4,
+      "rooms" : 4,
+      "fitnessFacility" : 3,
+      "swimmingPool" : 3
+    },
+    "hotelAddress" : "Court Road, Tiruvananthapuram - 2",
+    "hotelContent" : "Pack your bags - it’s time to embark on a getaway. Whether you’re craving a solo retreat or promising your family a",
+    "hotelRate" : 2200,
+    "imagePathUrl" : ["images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png"]
+  },
+  {
+    "hotelName" : "Hotel Sea View - Tiruvananthapuram - 3",
+    "hotelLocation" : "Tiruvananthapuram",
+    "hotelRating" : {
+      "overall" : 4,
+      "service" : 4,
+      "value" : 4,
+      "cleanliness" : 4,
+      "sleepQuality" : 3,
+      "location" : 4,
+      "rooms" : 4,
+      "fitnessFacility" : 3,
+      "swimmingPool" : 3
+    },
+    "hotelAddress" : "Court Road, Tiruvananthapuram - 3",
+    "hotelContent" : "Pack your bags - it’s time to embark on a getaway. Whether you’re craving a solo retreat or promising your family a",
+    "hotelRate" : 2200,
+    "imagePathUrl" : ["images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png","images/hotels/kanyakumari/hotelSeaView.png"]
+  }]
